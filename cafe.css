@@ -11,6 +11,14 @@ img.indice{
     float: right;
 }
 p.indice{
-   float: left;
-
+    float: left;
+    font-size: 25px;
+}
+body{
+    margin: auto;
+    max-width: 1000px;
+}
+p.rojo{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
 }
